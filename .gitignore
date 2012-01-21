@@ -1,0 +1,5 @@
+# bin配下を無視する
+bin/
+
+
+.DS_Store
